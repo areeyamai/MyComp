@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+<head>
+  <title>welcome to 61070365</title>
+  <link href="css.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+  <ul class="navigation">
+    <li class="active">ขายอุปกรณ์กีฬา</li>
+    <li>ติดต่อซื้อได้เลยย</li>
+    <li><h1><a href="https://www.google.co.th/search?q=%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2&rlz=1C1CHBF_enTH813TH813&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAk9vRrszeAhWIWX0KHRLJDcQQ_AUIDigB&biw=1517&bih=675#imgrc=Rn0uaA4IErR1qM:">LINK TO WEB</a></h1></li>
+  </ul>
+    <li><img src="ITF/sp.jpg" height="80px;"></li>
+    <li><img src="ITF/bat.jpg" height="80px"></li>
+    <li><img src="ITF/mai.jpg" height="80px;"></li>
+    <li><img src="ITF/maima.jpg" height="80px;"></li>
+    <li><img src="ITF/mi.jpg" height="80px;"></li>
+    <div><h2>กรุณากรอกชื่อของท่าน<h2></div>
+
+    <form action="AREEYAMAI.php" method="get">
+            ชื่อ
+    <input type="text" name"name"><br>
+            อายุ
+    <input type="text" name"age">
+    <input type="submit" value="ยืนยันข้อมูล">
+    </form>
+  
+
+ <h2><p>สินค้าราคาถูก ราคาสบาย ต้องมาที่ 61070365 ช้อปจ้าา</p></h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ประเภท</th>
+        <th>ราคา</th>
+	<th>จำนวนที่มี</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>บาสเกตบอล</th>
+        <td>299</td>
+        <td>245</td>
+      </tr>
+      <tr>
+        <th>เเบตมินตัน</th>
+        <td>199</td>
+        <td>2</td>
+      </tr>
+	<tr>
+        <th>ไม้ปิงปอง</th>
+        <td>250</td>
+        <td>90</td>
+      </tr>
+	<tr>
+        <th>เเบตมินตัน</th>
+        <td>199</td>
+        <td>2</td>
+      </tr>
+  </table>
+
+</body>
+</html>
